@@ -1,0 +1,21 @@
+{
+  "name": "RomanosAPI",
+  "version": "0.0.1",
+  "description": "servicio que provee numeros romanos",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "dependencies": {
+    "express": "*",  
+    "mongoose":"*"
+  },
+  "engines": {
+    "node": "0.10.26",
+    "npm": "1.4.3 "
+  }
+}
